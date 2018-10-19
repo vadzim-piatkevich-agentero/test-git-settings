@@ -1,1 +1,1 @@
-# test-git-settings
+Testing new git settings
